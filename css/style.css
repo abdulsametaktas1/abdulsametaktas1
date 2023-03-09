@@ -4,3 +4,7 @@ h1{
 strong{
     color: RED;
 }
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
