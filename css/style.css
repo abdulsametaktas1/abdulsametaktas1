@@ -13,7 +13,7 @@ table, tr, td {
     overflow-wrap: break-word;
 }
 body{
-    background-image: url("images2/background.jpg");
+    background-image: url("../images2/background.jpg");
 
     
 }
