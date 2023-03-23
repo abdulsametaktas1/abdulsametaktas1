@@ -2,7 +2,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
 }
 strong{
-    color: RED;
+    color: white;
 }
 .center{
     margin-left: auto;
@@ -11,6 +11,7 @@ strong{
 table, tr, td {
     border: 1px solid;
     overflow-wrap: break-word;
+    color: white;
 }
 body{
     background-image: url("../images2/background.jpg");
